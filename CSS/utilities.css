@@ -1,0 +1,32 @@
+* {
+    font-size: medium;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    background: orange;
+    padding: 13px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    color: orange;
+    background: #333;
+}
+
+.bg-primary {
+    background: #fff;
+    color: #000;
+}
+
+.bg-dark {
+    background: rgb(4, 4, 35);
+    color: #fff;
+}
+
+.bg-yellow {
+    background: rgb(205, 205, 10);
+    color: #000;
+}

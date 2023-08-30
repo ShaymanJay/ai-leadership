@@ -178,3 +178,7 @@ a {
     padding: 30px;
     height: 100%;
 }
+
+li.submenu:hover ul.dropdown-menu li {
+    display: flex;
+} 
